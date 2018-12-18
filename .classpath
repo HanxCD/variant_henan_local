@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_80"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/curTableCollect-kernel-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/curTableCollect-model-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/curTableImport-model-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/curTableImport-parseAndDb-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/curTableImport-parseFile-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/curTableImport-parseSplite-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/GAPI-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/GODU-common-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/soap-check-instruction-common-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/soap-check-instruction-db-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/soap-check-para-process-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/soapVariant.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,5 @@
+/bin/
+/lib/
+.project
+.idea
+.settings

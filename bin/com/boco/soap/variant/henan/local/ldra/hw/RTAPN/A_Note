@@ -1,0 +1,6 @@
+//Author: Sha Jianwen
+//Edited time:2016-2-19 17:44:35
+
+1.目前局向调测仅有HDRA、PCRF、PCRF-POOL设备需要做RTAPN表；
+2.河南GX接口规范调整,GX接口号段组POOL,组POOL后,PCRF设备不在做RTAPN表数据；
+3.该文件夹内代码在业务上，暂时不再需要，保留备份。

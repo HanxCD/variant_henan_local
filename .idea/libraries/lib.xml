@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/soap-check-instruction-db-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/GAPI-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/GODU-common-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curTableImport-parseAndDb-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/soapVariant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta-oro-2.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curTableCollect-model-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curTableImport-model-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/soap-check-instruction-common-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curTableImport-parseFile-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curTableImport-parseSplite-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/soap-check-para-process-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curTableCollect-kernel-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
